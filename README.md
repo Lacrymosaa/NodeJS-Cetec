@@ -1,3 +1,2 @@
-\\ no console
-Clonar pasta -> npm i  (gera node_modules)
-Iniciar server -> npm run server
+Atividade feita durante o minicurso de NodeJS da Cetec (semana da tecnologia na Fatec de Presidente Prudente 17/09).
+
